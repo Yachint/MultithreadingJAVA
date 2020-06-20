@@ -1,0 +1,11 @@
+Q2. 1) Error -> Expected type Boolean
+    2) Successfull
+    3) Successfull
+    4) Error -> Wrong Operator
+
+Q3. Method will not run as it is not declared as static.
+
+Q4. Value of i:1 Value of j:1
+    Value of i:2 Value of j:1
+
+Q5. 2
